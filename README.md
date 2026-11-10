@@ -1,4 +1,5 @@
 # P & L Tracker
+### *Status: Under Development 
 
 # Project Overview
 This app tracks profit/loss entries and visualizes them on a user dashboard.
